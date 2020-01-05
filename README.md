@@ -26,7 +26,9 @@ Update your mongo db host url (mongoUri) in /server/config file
 
 ### Config
 Config is found in /server/config you can do the required changess
-> update the time interval for polling 
-> avoid updating while update keep failing
-> polling api (you may need to change the mongoose schema if you change the api)
+> update the time interval for polling.
+
+> avoid updating while update keep failing.
+
+> polling api (you may need to change the mongoose schema if you change the api).
 
