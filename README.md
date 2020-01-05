@@ -32,3 +32,5 @@ Config is found in /server/config you can do the required changess
 
 > polling api (you may need to change the mongoose schema if you change the api).
 
+> batch size, how many records should be processed at one time to the database
+
