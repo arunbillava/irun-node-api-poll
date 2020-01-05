@@ -1,0 +1,16 @@
+{
+  "name": "irun-node-api-poll",
+  "version": "1.0.0",
+  "description": "hitting an api and saving details in database",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test",
+    "start": "node server/index.js "
+  },
+  "author": "Arun Billava",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.8.4",
+    "request": "^2.88.0"
+  }
+}
