@@ -10,7 +10,7 @@
   "author": "Arun Billava",
   "license": "ISC",
   "dependencies": {
-    "mongoose": "^5.8.4",
+    "mongoose": "^6.0.4",
     "request": "^2.88.0"
   }
 }
